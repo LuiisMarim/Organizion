@@ -27,7 +27,7 @@ Organizion trata-se do desenvolvimento de um aplicativo para auxiliar gamers lei
 1 - Abra o link:
 
 ```
-    https://snack.expo.dev/@luiismarim/organizionapp
+https://snack.expo.dev/@luiismarim/organizionapp
 ```
 2 - Baixe o Expo GO ⬇️
 
